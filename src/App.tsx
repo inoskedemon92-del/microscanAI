@@ -128,7 +128,7 @@ export default function App() {
           </div>
           <div>
             <h1 className="text-xl font-bold tracking-tight text-white flex items-center gap-2">
-              MICROSCAN <span className="text-cyan-400 font-light">OCEAN</span>
+              MICROSCAN <span className="text-cyan-400 font-light">AQUA</span>
             </h1>
             <div className="flex items-center gap-2">
               <span className="text-[9px] font-mono text-cyan-500/70 uppercase tracking-[0.2em]">System Active</span>
